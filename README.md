@@ -4,7 +4,7 @@ This repository was created to download papers during the repeated intermediate 
 This repository will contain 5 projects:
 * homework06
 * homework07-web
-* homework08
+* homework08-web
 * homework09-web
 * homework10
 
